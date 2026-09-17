@@ -88,7 +88,7 @@ def save_ctx(data):
 
 # ─── GROQ AI CALL ─────────────────────────────────────────
 SYSTEM_PROMPT = """Tu Rawatbhata Direct ka AI assistant hai.
-User ka naam Pankaj hai, woh Rawatbhata (Rajasthan) se hai.
+User ka naam themusafir hai, woh Rawatbhata (Rajasthan) se hai.
 Woh Telegram se baat kar raha hai — tu uska personal AI bot hai jo PC pe chal raha hai.
 Usne ek hyperlocal delivery app banaya hai: rawatbhata-hyperlocal.vercel.app
 Woh is app ko launch kar raha hai — marketing, vendor onboarding, driver recruitment, Instagram content, WhatsApp broadcast sab uska kaam hai.
@@ -112,7 +112,7 @@ Guidelines:
 - Memory check karne ke baad info update bhi kar sakta hai agar user ne naya fact bataya
 
 Memory facts:
-- Pankaj ka IG: @the.musafirrr__
+- themusafir ka IG: @the.musafirrr__
 - App: rawatbhata-hyperlocal.vercel.app
 - PIN: 323303, Rawatbhata, Chittorgarh, Rajasthan
 - Telegram bot: @Pbx14lBot

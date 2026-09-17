@@ -66,8 +66,8 @@ COMMANDS = {
     "/reel5": "📹 *Reel 5 - App Install*\n\n🎬 SHOOT:\n1. Browser kholo\n2. rawatbhata-hyperlocal.vercel.app\n3. Share > Add to Home Screen\n4. App icon banta hai\n\n🎵 Trending audio\n⏱ 15-20 sec",
     "/install": "📱 *App Install Guide*\n\n👉 rawatbhata-hyperlocal.vercel.app\n\n*iOS:* Safari > Share > Add to Home Screen\n*Android:* Chrome > 3-dot > Install app\n\n💡 Free, no app store needed!",
     "/stats": "📊 *Lead Tracker*\n\n📁 File: 05-Lead-Tracker.xlsx\n📁 Location: Rawatbhata-Direct-Launch/\n\nManually update karo entries.",
-    "/vendor": "🏪 *VENDOR SCRIPT*\n\n'Namaste bhaiya, main Pankaj. Maine Rawatbhata Direct app banaya. Ispe log order karenge, aapki dukaan se delivery hogi. Commission ₹0. Kya join karna chahenge?'\n\n💡 Demo: Apne phone pe app dikhao. QR code do.",
-    "/driver": "🚗 *DRIVER SCRIPT*\n\n'Namaste bhaiya, main Pankaj. Rawatbhata Direct app se ride bookings aayenge. Commission ₹0. Basic smartphone enough hai.'\n\n💡 Demo: App dikhao, ride accept karna dikhao.",
+    "/vendor": "🏪 *VENDOR SCRIPT*\n\n'Namaste bhaiya, main themusafir. Maine Rawatbhata Direct app banaya. Ispe log order karenge, aapki dukaan se delivery hogi. Commission ₹0. Kya join karna chahenge?'\n\n💡 Demo: Apne phone pe app dikhao. QR code do.",
+    "/driver": "🚗 *DRIVER SCRIPT*\n\n'Namaste bhaiya, main themusafir. Rawatbhata Direct app se ride bookings aayenge. Commission ₹0. Basic smartphone enough hai.'\n\n💡 Demo: App dikhao, ride accept karna dikhao.",
     "/story": "📸 *STORY IDEAS*\n\n1️⃣ 30% OFF First Order - Story-1-Offer-30OFF.png\n2️⃣ QR Code - Scan & Order\n3️⃣ Your Shop on Rawatbhata Direct\n4️⃣ Earn Extra - Referral\n5️⃣ Referral Rs50 - Story-5-Referral-Rs50.png\n\nReady templates: Rawatbhata-Direct-Launch/Story-Templates/",
     "/broadcast": "📣 *WA BROADCAST GUIDE*\n\n1. WhatsApp > New Broadcast > +\n2. Contacts add karo\n3. Ek baar me 1 message\n4. /wa1 se /wa5 use karo\n\n⏰ Timing: 9AM, 1PM, 6PM",
 }

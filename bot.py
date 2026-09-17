@@ -195,7 +195,7 @@ VENDOR_SCRIPT = """🏪 *VENDOR OUTREACH SCRIPT*
 📢 *DOOR-TO-DOOR VENDOR WALK*
 
 *APPROACH:*
-"Namaste bhaiya/ben, Pankaj bol raha hoon Rawatbhata se.
+"Namaste bhaiya/ben, themusafir bol raha hoon Rawatbhata se.
 Maine ek app banaya hai — Rawatbhata Direct.
 Ispe log order karenge, aapki dukaan se delivery hogi.
 *Commission ₹0.* Sirf 5% platform fee (customer se).
@@ -208,7 +208,7 @@ Ispe log order karenge, aapki dukaan se delivery hogi.
 5. QR code: Vendor ko QR dede — customer scan kare, order aaye
 
 *SCRIPT:*
-"Listen bhaiya, main Pankaj hoon. Maine Rawatbhata ke liye ek app banaya hai jahan log food, grocery, medicines order karte hain. Aapki dukaan se delivery hogi — aapko kuch dene ka nahi, sirf item dena hai. Commission zero. Kya aap join karna chahenge?"
+"Listen bhaiya, main themusafir hoon. Maine Rawatbhata ke liye ek app banaya hai jahan log food, grocery, medicines order karte hain. Aapki dukaan se delivery hogi — aapko kuch dene ka nahi, sirf item dena hai. Commission zero. Kya aap join karna chahenge?"
 
 *OBJECTION HANDLING:*
 ❌ "Mobile nahi aata" → "Koi nahi, QR code se kaam hoga"
@@ -233,7 +233,7 @@ DRIVER_SCRIPT = """🚗 *DRIVER OUTREACH SCRIPT*
 3. Solution: "Mera app aapko ride bookings dega — phone pe notification aayega"
 
 *SCRIPT:*
-"Bhaiya, main Pankaj hoon. Maine Rawatbhata Direct app banaya hai jahan log rides book karte hain app se. Aapko sirf notification aayega, acceptance aapka. *Commission ₹0.* Ride accept karo, passenger pick karo, paise lo.
+"Bhaiya, main themusafir hoon. Maine Rawatbhata Direct app banaya hai jahan log rides book karte hain app se. Aapko sirf notification aayega, acceptance aapka. *Commission ₹0.* Ride accept karo, passenger pick karo, paise lo.
 
 *DEMO:*
 1. App dikhao (rawatbhata-hyperlocal.vercel.app)
