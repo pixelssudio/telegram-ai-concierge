@@ -26,7 +26,7 @@
 
 ### 1. Installation
 ```bash
-git clone https://github.com/<your-username>/telegram-ai-concierge.git
+git clone https://github.com/pixelssudio/telegram-ai-concierge.git
 cd telegram-ai-concierge
 pip install -r requirements.txt
 ```
@@ -99,4 +99,4 @@ I offer turnkey custom bot solutions:
 ---
 
 ## 📄 License
-MIT License. Created by Pankaj (@the.musafir).
+MIT License. Built by **[the.musafir](https://github.com/pixelssudio)** — Full-Stack AI Engineer.
